@@ -1,0 +1,19 @@
+{
+  "name": "ELO - Cadastro de Indicações",
+  "short_name": "ELO",
+  "description": "Aplicativo de indicações ELO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f4",
+  "theme_color": "#123f2a",
+  "icons": [
+    {
+      "src": "./icons/elo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
